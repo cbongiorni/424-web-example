@@ -1,3 +1,8 @@
+.DS_Store
+*.orig
+# Ignoring configuration files that may contain sensitive information.
+sites/*/*settings*.php
+
 # Ignore configuration files that may contain sensitive information.
 sites/*/*settings*.php
 
